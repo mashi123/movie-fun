@@ -10,7 +10,7 @@ import org.springframework.scheduling.annotation.Scheduled;
 
 import javax.sql.DataSource;
 
-@Configuration
+// @Configuration
 @EnableAsync
 @EnableScheduling
 public class AlbumsUpdateScheduler {
